@@ -1,9 +1,1 @@
-
-{
-  "functions": {
-    "api/cron/daily.js": {
-      "runtime": "nodejs18.x",
-      "schedule": "@daily"
-    }
-  }
-}
+{}
